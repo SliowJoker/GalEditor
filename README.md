@@ -1,0 +1,2 @@
+# GalEditor
+基于unity的visualnovel编辑插件，用于给文案快速构建你期望的galgame
